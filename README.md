@@ -5,7 +5,7 @@ black apple
 【5900X用黑苹果还是挺香的】 https://www.bilibili.com/video/BV1bv4y137nv/?share_source=copy_web&vd_source=03065197cc773e3f22088d87dccf5f2d
 
 因为蓝牙Wi-Fi有点问题。我就又加了个蓝牙Wi-Fi补丁
-
+现在暂时Wi-Fi蓝牙是好的了。不知道还有什么问题
 
 ## 配置如下
 |     |   |
